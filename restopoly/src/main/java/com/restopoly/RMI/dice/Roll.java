@@ -1,4 +1,4 @@
-package com.restopoly.dice;
+package com.restopoly.RMI.dice;
 
 import java.io.Serializable;
 
